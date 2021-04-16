@@ -14,7 +14,7 @@ Below operations performed on Dataset:
 6. Data Splitting.
 7. Applied different Machine Learning models on dataset and performed hyperparameter tuning.
 
-Below Models used on Dataset:
+Below Models applied on Dataset:
 
-1. Brute force K Nearest Neighbour(KNN) and applied featureselection with SelectKBest.
-2. 
+1. Brute force K Nearest Neighbour(KNN) and applied feature selection with SelectKBest.
+2. Naive Bayes and applied feature_log_proba to get the top 10 positive and negative features with their names. 
