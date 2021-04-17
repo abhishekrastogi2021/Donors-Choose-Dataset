@@ -16,5 +16,15 @@ Below operations performed on Dataset:
 
 Below Models applied on Dataset:
 
-1. Brute force K Nearest Neighbour(KNN) and applied feature selection with SelectKBest.
-2. Naive Bayes and applied feature_log_proba to get the top 10 positive and negative features with their names. 
+1. K Nearest Neighbour 
+2. Naive Bayes 
+3. Logistic Regression 
+4. Support Vector Machine 
+5. Decision Trees
+6. Random Forest
+7. Gradient Boost Decision Tree
+8. K means 
+9. Agglomerative clustering
+10. DBSCAN
+11. Truncated SVD
+12. LSTM 
